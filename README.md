@@ -20,6 +20,3 @@ A Colab-ready pipeline that runs DeepSeek OCR on a T4 GPU to extract text from r
 5. Run the OCR cell to generate raw text output.
 6. Run the AGNO agent cell to parse structured fields from the OCR output.
 
-
-## Contact
-Maintainer: mohammedaslam19 (update with preferred contact email or link)
